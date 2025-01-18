@@ -6,7 +6,7 @@
 <b>Duration:</b> December 25th, 2024 to January 25th, 2025.</br>
 <b>Mentor:</b> NEELA SANTHOSH</br>
 
-<b>Project: Secure-Payment-Integration</b> <br/><br/>
+<b>Project: Ai-Chatbot-Integraton</b> <br/><br/>
 <h3></h3>
 <p> </p>
 </br>
